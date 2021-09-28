@@ -1,19 +1,51 @@
 html, #root{
-  background-image: url(./assets/img/pexels-madison-inouye-1831234.jpg);
+  /* background-image: url(./assets/img/pexels-madison-inouye-1831234.jpg); */
+  background-color: #FBE8E7;
   font-family: monospace;
   height: 100%;
 }
 .App {
-  background-color: whitesmoke;
+  background-color: #FCF5EE;
   opacity: 0.7;
   max-width: 90%;
   min-width: 20%;
   height: 100%;
-  padding: 5%;
+  padding-top: 3%;
   margin-top: 2%;
+  margin-bottom: 2%;
   margin-left: 5%;
   margin-right: 5%;
   text-align: center;
   font-family: monospace;
 }
 
+.nav-link{
+  color: #5e5c5c;
+}
+
+.nav-link:visited{
+  color: #5e5c5c;
+}
+
+.nav-link:hover{
+  color: #FFC4D0;
+}
+
+.content_page {
+  padding: 40px;
+}
+
+.presentation {
+  margin-top: 15%;
+  margin-bottom: 40%;
+}
+
+.aboutContent {
+  margin-top: 15%;
+  margin-bottom: 25%;
+}
+
+.projects {
+  margin-top: 15%;
+  margin-bottom: 25%;
+}

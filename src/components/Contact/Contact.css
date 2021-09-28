@@ -1,0 +1,21 @@
+.contactForm {
+    border-style:double;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    padding: 10px;
+}
+.contactForm a{
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bold;
+    color: #5e5c5c;
+}
+.contactForm a:visited{
+    color: #5e5c5c;
+}
+
+.contactForm a:hover{
+    color: #FFC4D0;
+}
