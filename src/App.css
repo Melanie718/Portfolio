@@ -16,7 +16,13 @@ html, #root{
   margin-left: 5%;
   margin-right: 5%;
   text-align: center;
-  font-family: monospace;
+  font-family: 'Cookie', cursive;
+  font-size: x-large;
+}
+
+#navbar {
+  background-color: #FCF5EE;
+  padding: 40px;
 }
 
 .nav-link{
@@ -35,17 +41,18 @@ html, #root{
   padding: 40px;
 }
 
-.presentation {
-  margin-top: 15%;
-  margin-bottom: 40%;
+.content {
+  margin-top: 10%;
+  margin-bottom: 20%;
 }
 
-.aboutContent {
+.content h1 {
   margin-top: 15%;
-  margin-bottom: 25%;
+  margin-bottom: 2%;
 }
 
-.projects {
-  margin-top: 15%;
-  margin-bottom: 25%;
+.content .anchor{
+  position: absolute;
+  left: 0px;
+  margin-top: 1000px;
 }

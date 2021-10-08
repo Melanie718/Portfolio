@@ -1,6 +1,7 @@
 function About() {
     return (
-      <div class="aboutContent">
+      <div class="content" id="about">
+      <span class="anchor" name="target"></span>
         <h1>A propos de moi</h1>
         <p>
           Officia reprehenderit qui nostrud et enim dolor ipsum exercitation ut
